@@ -1,0 +1,59 @@
+[
+  {
+    "name": "WIM Purebeat",
+    "menu": "mix",
+    "type": "audio",
+    "url": "https://radio1.hu/audioplayer.php?access_token=4%01%09%07%22%19%13XWT%5BUBSZVYS%5D",
+    "metadata": [
+      {
+        "artist": "artist",
+        "title": "title",
+        "cover": "https://radio1.hu/wp-content/uploads/2019/09/500X500-BRICKLAKE.png",
+        "tracklist": [
+          "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3",
+          "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample2.mp3"
+        ],
+        "description": "Valami leírás...."
+      }
+    ],
+    "comment": "HTTP REFERER-t kell hazudni vagy engedélyezni az app referere url-jét. MENU: mely menüpont listázza ki."
+  },
+  {
+    "name": "Balázsék 20221123",
+    "menu": "podcastok",
+    "type": "audio",
+    "url": "https://radio1.hu/audioplayer.php?access_token=4%01%09%07%22%19%13XWT%5BUBSZVYS%5D",
+    "metadata": [
+      {
+        "artist": "Balázsék 2022 11 23",
+        "title": "title",
+        "cover": "https://radio1.hu/wp-content/uploads/2019/09/500X500-BRICKLAKE.png",
+        "tracklist": [
+          "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3",
+          "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample2.mp3"
+        ],
+        "description": "Valami leírás...."
+      }
+    ],
+    "comment": "HTTP REFERER-t kell hazudni vagy engedélyezni az app referere url-jét."
+  },
+  {
+    "name": "Balázsék 2022 11 24",
+    "menu": "podcastok",
+    "type": "audio",
+    "url": "https://radio1.hu/audioplayer.php?access_token=4%01%09%07%22%19%13XWT%5BUBSZVYS%5D",
+    "metadata": [
+      {
+        "artist": "Balázsék 20221123",
+        "title": "title",
+        "cover": "https://radio1.hu/wp-content/uploads/2019/09/500X500-BRICKLAKE.png",
+        "tracklist": [
+          "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample.mp3",
+          "https://github.com/rafaelreis-hotmart/Audio-Sample-files/raw/master/sample2.mp3"
+        ],
+        "description": "Valami leírás...."
+      }
+    ],
+    "comment": "HTTP REFERER-t kell hazudni vagy engedélyezni az app referere url-jét."
+  }
+]
