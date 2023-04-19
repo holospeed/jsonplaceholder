@@ -1,21 +1,21 @@
 [
   {
     "title": "Balázsék",
-    "shord_description": "Minden hétköznap 06:00 – 10:00",
+    "short_description": "Minden hétköznap 06:00 – 10:00",
     "long_description": "",
     "image": "https://radio1.hu/wp-content/uploads/2018/05/Balazsek-19.09.-musorthumbnail-720x340-1-720x341.png",
     "url": "https://youtube.com/playlist?list=PLJ1h8XY-6FDz5rbUWaAsJBaVhpLyEmiDn"
   },
   {
     "title": "Györke Attila",
-    "shord_description": "Hétköznaponként 10:00-17:00",
+    "short_description": "Hétköznaponként 10:00-17:00",
     "long_description": "A legjobb zenékkel gyorsabban elrepül a munkaidő! Györke Attila minden hétköznap Csak igazi mai slágereket játszik 10:00-től 17:00-ig. A zenék között Attis műsorában bárki üzenhet kollégáinak, ismerőseinek, felköszöntheti az ünneplő családtagokat; a délutáni csúcsforgalomban pedig elmondhatja a közlekedés legfontosabb információit.Szombatonként 10-12 között, vasárnaponként 15-17 között a Rádió 1 TOP 50-ben Attis elhozza Európa, Amerika és a Rádió 1 legtrendibb kedvenceit.",
     "image": "https://radio1.hu/wp-content/uploads/2021/06/IMG_9431-720x576.jpg",
     "url": ""
   },
   {
     "title": "Rádió 1 Live Mix",
-    "shord_description": "Minden hétköznap 17:00 – 18:00",
+    "short_description": "Minden hétköznap 17:00 – 18:00",
     "long_description": "Juhász Gergő és lemezlovas társa minden hétköznap délután 5-6 között várja a Rádió 1 hallgatóit. Ne hagyd ki a legjobb mixeket!",
     "image": "https://radio1.hu/wp-content/uploads/2021/06/radio1-live-mix-720x355.png",
     "url": ""
